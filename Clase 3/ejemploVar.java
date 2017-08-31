@@ -7,7 +7,7 @@ public class ejemploVar
 			int numero2;
 
 			//Ahorita el 34 es un caracter
-			numero0="34";
+			numero0="36";
 			//'Integer.parseInt' pasa de caracter a numero pero si le pones una letra no lo va a correr y va a dar error
 			numero1= Integer.parseInt(numero0);
 			numero2=23;
