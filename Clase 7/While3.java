@@ -7,8 +7,8 @@ public class While3
   int numero;
   Scanner lector = new Scanner(System.in);
   numero = lector.nextInt();
-  System.out.printf("La sumatoria es : %d%n", sumatoria(numero));
-  System.out.printf("El factorial es : %d%n", factorial(numero));
+  System.out.printf("La sumatoria es: %d%n", sumatoria(numero));
+  System.out.printf("El factorial es: %d%n", factorial(numero));
 }
 public static int sumatoria (int num){
   int cont = 0;
