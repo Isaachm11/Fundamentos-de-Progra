@@ -6,7 +6,7 @@ public class For1{
       /*
       * (inicializar variables ; condicion para que el for permanezca ; el paso o incremento del contador)
       */
-      System.out.printf(" %d ",cont);
+      System.out.printf("%d ",cont);
 
     }
     System.out.printf("%n");
