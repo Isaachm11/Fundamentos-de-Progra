@@ -1,4 +1,4 @@
-public class Arreglo1{
+ public class Arreglo1{
   public static void main (String[] args){
     int[] arreglo = {3,5,8};
     int[] arreglo2 = new int [5];
@@ -23,3 +23,6 @@ public class Arreglo1{
     System.out.println("El total es: "+total);
   }
 }
+/*
++ Primera clase de arreglos2
+*/
